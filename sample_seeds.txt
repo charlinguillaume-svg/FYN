@@ -1,0 +1,4 @@
+# Exemple: colle ici des URLs d'annonces de MursCommerciaux, SeLoger, Leboncoin, BureauxLocaux, CessionPME
+https://www.murscommerciaux.com/annonce-exemple-1
+https://www.seloger.com/annonce-exemple-2
+https://www.leboncoin.fr/ventes_immobilieres/offre-exemple-3.htm
